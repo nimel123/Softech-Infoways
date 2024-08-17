@@ -5,6 +5,7 @@ import Service from "./Service";
 import Footer from "./Footer";
 import video from './office.mp4';
 import './design1.css';
+import '../design.css';
 import { Link } from "react-router-dom";
 import Softech from "./Softech";
 function Example() {
