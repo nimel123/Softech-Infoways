@@ -5,7 +5,7 @@
 // import Button from 'react-bootstrap/Button';
 // import { Link } from "react-router-dom";
 // import './logincss.css';
-// function Login(){
+// function Login5(){
 //       const navigate=useNavigate();
 //       const [username,setUsername]=useState("");
 //       const [password,setPassword]=useState("");
@@ -61,4 +61,4 @@
   
 //     );
 // }
-// export default Login;
+// export default Login5;

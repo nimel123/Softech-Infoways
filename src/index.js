@@ -25,12 +25,28 @@ import Small from './Small';
 import Hello from './Class';
 import Memo from './UseMemo';
 import Fact from './Factorial';
+import Ref from './UseRef';
+import Max from './Programm/MaxNumber';
+import Decending from './Programm/Decending';
+import Number from './Programm/NumberDecending';
+import Tap from './Animation/ButtonTap';
+import Window from './Window';
+import SoftechLogin from './Login Pages/Page1';
+import Login5 from './Softech/Login';
+import H1 from './Programm/Responsive';
+import Google from './Programm/Google';
+import Node from './Programm/Yes';
+import Nav from './Portfolio/Navbar';
+import btn from './Button';
+import { Button } from 'react-bootstrap';
+import ButtonMagic from './Button';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     
-    <Small />
+    <Softech />
     
   </React.StrictMode>
 );

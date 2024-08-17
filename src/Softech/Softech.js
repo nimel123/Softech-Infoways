@@ -15,7 +15,8 @@ import Cicon from "./C";
 import Sharp1 from "./AboutSharp";
 import Php1 from "./Aboutphp";
 import HTML from "./Abouthtml";
-import Button from 'react-bootstrap/Button';
+
+
 
 function Softech(){
 

@@ -32,11 +32,11 @@ function Footer() {
                 1.<Link to="/Home" className='link' >Home</Link><br />
                 2.<Link to="/About" className='link' >About Us</Link><br />
                 3.<Link to="/Contact" className='link' >Contact</Link>  
-                {/* <Routes>
+                <Routes>
                     <Route path='/Home' element={<Home />}></Route>
                     <Route path='/About' element={<About />}></Route>
                     <Route path='/Contact' element={<Contact />}></Route>
-                </Routes> */}
+                </Routes>
                 
         </p>
         </Col>
